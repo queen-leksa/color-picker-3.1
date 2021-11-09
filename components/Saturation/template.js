@@ -15,10 +15,10 @@ export default {
     css() {
         return `
             <style>
-                /*:root {*/
-                /*    position: relative;*/
-                /*    display: block;*/
-                /*}*/
+                :host {
+                    position: relative;
+                    display: block;
+                }
                 .bg-overlay {
                     width: 100%;
                     height: 100%;
