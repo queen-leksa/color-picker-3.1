@@ -7,9 +7,15 @@ body {
     margin: 0;
     font-family: sans-serif;
     gap: 30px;
+    background: rgba(185, 16, 16, 0.92);
 }
 
 saturation-square {
     width: 200px;
     height: 200px;
+}
+
+my-range {
+    width: 600px;
+    height: 80px;
 }
